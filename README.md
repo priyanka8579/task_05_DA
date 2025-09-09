@@ -26,6 +26,5 @@ SuperStore Dataset (from kaggle): https://www.kaggle.com/datasets/vivek468/super
   -Improved readability with professional formatting.
   -Applied consistent colors, labels, and legends.
   -Enhanced layout for better storytelling.
-Applied consistent colors, labels, and legends.
 
-Enhanced layout for better storytelling.
+I have Attached screenshot of the dashboard for viewing purpose.
